@@ -3,6 +3,12 @@
 **Youtube Video: https://youtu.be/GuEdR9CSPck**
 
 
+Links from the video:
+- USB to TTL module: https://s.click.aliexpress.com/e/_DCLBg9b
+- Nextion Display Enhanced 3.5" 320x480: https://s.click.aliexpress.com/e/_Dc8R9tr
+- Another Nextion Display Video: https://youtu.be/ATPutFn6jfk
+- Arduino Leonardo: https://s.click.aliexpress.com/e/_DBeR0RF
+
 
 ![THUMB_arduino_numpad_display](https://github.com/upiir/arduino_numpad_display/assets/117754156/47f439b0-529f-4b76-86ef-41a20d8ff418)
 
