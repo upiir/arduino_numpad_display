@@ -5,7 +5,7 @@
 
 Links from the video:
 - USB to TTL module: https://s.click.aliexpress.com/e/_DCLBg9b
-- Nextion Display Enhanced 3.5" 320x480: https://s.click.aliexpress.com/e/_Dc8R9tr
+- Nextion Display Enhanced 3.5" 320x480: https://s.click.aliexpress.com/e/_DCoXlEl
 - Another Nextion Display Video: https://youtu.be/ATPutFn6jfk
 - Arduino Leonardo: https://s.click.aliexpress.com/e/_DBeR0RF
 
