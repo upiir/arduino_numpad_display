@@ -10,6 +10,12 @@ Links from the video:
 - Arduino Leonardo: https://s.click.aliexpress.com/e/_DBeR0RF
 
 
+Similar Videos Using Nextion Displays:
+- Nextion Keyboard: https://youtu.be/ATPutFn6jfk
+- Nextion for Motorbike: https://youtu.be/tQaJ0RHUIi0
+- Nextion and Micro:bit: https://youtu.be/NpZMQjdKxBI
+
+
 ![THUMB_arduino_numpad_display](https://github.com/upiir/arduino_numpad_display/assets/117754156/47f439b0-529f-4b76-86ef-41a20d8ff418)
 
 
